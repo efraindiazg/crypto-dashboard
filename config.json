@@ -1,0 +1,20 @@
+{
+  "header": {
+    "title": "Crypto Dashboard",
+    "subtitle": "Comparador de precios de criptomonedas"
+  },
+  "theme": {
+    "primaryColor": "#6366F1",
+    "secondaryColor": "#34D399",
+    "accentColor": "#F59E0B",
+    "backgroundColor": "#F9FAFB",
+    "textColor": "#111827"
+  },
+  "default": {
+    "coin1": "bitcoin",
+    "coin2": "ethereum",
+    "vs_currency": "usd",
+    "date_from": "2022-01-01",
+    "date_to": "2022-02-01"
+  }
+}
